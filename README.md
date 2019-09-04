@@ -6,6 +6,8 @@ TwibbonKu, an Application Twibbon Manager
   <li> Add Twibbon </li>
   <li> Remove Twibbons </li>
   <li> Remove Photos </li>
+  <li> Listing Photos </li>
+  <li> Listing Twibbons </li>
   <li> Site Settings </li>
   <li> Change password </li>
 </ul>
