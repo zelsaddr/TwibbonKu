@@ -4,10 +4,12 @@ require "./function.php";
 session_start();
 if(!isset($_SESSION['user'])){
     header("Location: /admin/login.php");
+    exit;
 }
 if(isset($_GET['logout'])){
     session_destroy();
     header("Location: /admin/login.php");
+    exit;
 }
 $twibbon = new Twibbon;
 $site_settings = $twibbon->show_settings()['0'];
