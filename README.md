@@ -1,5 +1,5 @@
 # TwibbonKu
-TwibbonKu, an Application Twibbon Management
+TwibbonKu, an Application Twibbon Manager
 # Admin Feature
 <ul>
   <li> Admin Panel </li>
