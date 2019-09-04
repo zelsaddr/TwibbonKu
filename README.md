@@ -2,7 +2,6 @@
 TwibbonKu, an Application Twibbon Manager
 # Admin Feature
 <ul>
-  <li> Admin Panel </li>
   <li> Add Twibbon </li>
   <li> Remove Twibbons </li>
   <li> Remove Photos </li>
@@ -19,4 +18,4 @@ TwibbonKu, an Application Twibbon Manager
 </ul>
 <br>
 Demo : <i>https://twibbon.otools.me</i> <br>
-Developed by <b>Me</b> <3 
+&copy; Developed by <b>Me</b> <3 
