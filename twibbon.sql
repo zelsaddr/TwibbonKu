@@ -40,7 +40,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`, `email`) VALUES
-(1, 'mazterin', '$2y$10$PbAz.ZhkqxOH.oSNO4dSMOUL.JHpE76Mk.7Oj/2kD3xkPOvgNZFeO', 'zeldin26@gmail.');
+(1, 'mazterin', '$2y$10$iAD4O7rXYDA98l275rvDY.hMZ.zXxWUGB2lAtvN5zhjUQpyplxLdq', 'zeldin26@gmail.');
 
 -- --------------------------------------------------------
 
