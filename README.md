@@ -17,5 +17,6 @@ TwibbonKu, an Application Twibbon Manager
   <li> Download Photo </li>
 </ul>
 <br>
+<b> Default User Password : admin : admin </b>
 Demo : <i>https://twibbon.otools.me</i> <br>
 &copy; Developed by <b>Me</b> <3 
