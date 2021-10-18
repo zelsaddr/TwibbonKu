@@ -4,7 +4,7 @@ if(!defined("TwibbonKu")){
     exit();
 }
 ?>
-    <table id="dataTables" class="table">
+    <table id="dataTables" class="table table-responsive">
         <thead class="thead-dark">
             <tr>
                 <th>ID</th>
