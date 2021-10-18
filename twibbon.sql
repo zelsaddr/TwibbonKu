@@ -32,7 +32,7 @@ CREATE TABLE `admin` (
   `id` int(11) NOT NULL,
   `username` varchar(12) DEFAULT NULL,
   `password` varchar(70) DEFAULT NULL,
-  `email` varchar(15) NOT NULL
+  `email` varchar(50) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
@@ -40,7 +40,7 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `username`, `password`, `email`) VALUES
-(1, 'admin', '$2y$10$0gufgwF8FBhVvMxMXzjoy.wx76BTMVfgzYu/96f.TdKXe46QY2Ogu', 'admin@gmail.');
+(1, 'admin', '$2y$10$AKJOGe7ydYnouxfo0SG6Xeu8tILzzX11ny5ljxuSzyWad5fFTle2C', 'admin@gmail.com');
 
 -- --------------------------------------------------------
 
