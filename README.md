@@ -1,6 +1,9 @@
 # TwibbonKu
-TwibbonKu, an Application Twibbon Manager
+
+TwibbonKu, an Application Twibbons Manager
+
 # Admin Feature
+
 <ul>
   <li> Add Twibbon </li>
   <li> Remove Twibbons </li>
@@ -12,6 +15,7 @@ TwibbonKu, an Application Twibbon Manager
 </ul>
 
 # User Feature
+
 <ul>
   <li> Upload Photo </li>
   <li> Download Photo </li>
@@ -19,4 +23,4 @@ TwibbonKu, an Application Twibbon Manager
 <br>
 <b> Default User Password : admin : admin </b>
 Demo : <i>https://twibbon.otools.me</i> <br>
-&copy; Developed by <b>Me</b> <3 
+&copy; Developed by <b>Me</b> <3
